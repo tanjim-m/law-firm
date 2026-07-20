@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+            "client_name": "Mohammad Ali",
+            "review": "Taj Law Firm handled my corporate case with exceptional professionalism. Their strategic approach saved my business millions.",
+            "rating": 5,
+            "display_order": 1,
+            "is_approved": true,
+            "id": 1,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "client_name": "Fatema Begum",
+            "review": "Going through a divorce was incredibly difficult, but the team provided compassionate support and secured a fair settlement.",
+            "rating": 5,
+            "display_order": 2,
+            "is_approved": true,
+            "id": 2,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "client_name": "Abdur Rahim",
+            "review": "I was facing serious criminal charges. Barrister Rafiq and his team fought tirelessly and got me acquitted. I owe them everything.",
+            "rating": 5,
+            "display_order": 3,
+            "is_approved": true,
+            "id": 3,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "client_name": "Ayesha Sultana",
+            "review": "As a startup founder, I needed reliable legal guidance. They handled incorporation, contracts, and IP protection flawlessly.",
+            "rating": 5,
+            "display_order": 4,
+            "is_approved": true,
+            "id": 4,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "client_name": "Dr. Karim Mahmud",
+            "review": "After my accident, the personal injury team secured compensation that covered all medical expenses and more.",
+            "rating": 4.5,
+            "display_order": 5,
+            "is_approved": true,
+            "id": 5,
+            "created_at": "2026-07-10 11:12:36"
+        }
+    ],
+    "nextId": 6
+}

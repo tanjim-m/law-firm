@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "username": "admin",
+            "password": "$2y$12$DZuqQJfu82aHlQzx4cTlAuqmM5IYiwy1T0z3fhVsSVj8rRD0c8gBO",
+            "email": "admin@tajlawfirm.com",
+            "id": 1,
+            "created_at": "2026-07-10 11:12:36"
+        }
+    ],
+    "nextId": 2
+}

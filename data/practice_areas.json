@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "title": "Criminal Defense",
+            "icon": "fa-gavel",
+            "description": "Vigorous defense for individuals facing criminal charges.",
+            "services": "Pre-arrest counseling\nBail hearings\nTrial defense\nAppeals\nWhite-collar crime\nJuvenile defense",
+            "display_order": 1,
+            "id": 1,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "title": "Family Law",
+            "icon": "fa-heart",
+            "description": "Compassionate guidance through sensitive family matters.",
+            "services": "Divorce and separation\nChild custody\nSupport and alimony\nProperty division\nPre-nuptial agreements\nProtection orders",
+            "display_order": 2,
+            "id": 2,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "title": "Personal Injury",
+            "icon": "fa-hand-fist",
+            "description": "Maximum compensation for accident victims.",
+            "services": "Motor vehicle accidents\nWorkplace injuries\nMedical malpractice\nSlip and fall\nWrongful death\nInsurance claims",
+            "display_order": 3,
+            "id": 3,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "title": "Divorce",
+            "icon": "fa-ring",
+            "description": "Strategic representation in divorce proceedings.",
+            "services": "Contested divorce\nUncontested divorce\nAsset tracing\nSpousal maintenance\nBusiness division\nPost-divorce modifications",
+            "display_order": 4,
+            "id": 4,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "title": "Immigration",
+            "icon": "fa-globe",
+            "description": "Expert guidance through the immigration system.",
+            "services": "Work visas\nFamily immigration\nPermanent residency\nCitizenship\nDeportation defense\nAsylum applications",
+            "display_order": 5,
+            "id": 5,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "title": "Corporate Law",
+            "icon": "fa-building",
+            "description": "Full-service business legal support.",
+            "services": "Incorporation\nContracts\nMergers & acquisitions\nCompliance\nShareholder agreements\nBusiness dissolution",
+            "display_order": 6,
+            "id": 6,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "title": "Real Estate",
+            "icon": "fa-house",
+            "description": "Complete real estate legal services.",
+            "services": "Property transactions\nTitle verification\nLease agreements\nDispute resolution\nLand development\nMortgage matters",
+            "display_order": 7,
+            "id": 7,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "title": "Employment Law",
+            "icon": "fa-briefcase",
+            "description": "Protecting workplace rights.",
+            "services": "Wrongful termination\nDiscrimination\nHarassment cases\nWage disputes\nEmployment contracts\nPolicy drafting",
+            "display_order": 8,
+            "id": 8,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "title": "Tax Law",
+            "icon": "fa-calculator",
+            "description": "Strategic tax planning and dispute resolution.",
+            "services": "Tax planning\nCompliance\nAudit representation\nDispute resolution\nInternational taxation\nVAT matters",
+            "display_order": 9,
+            "id": 9,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "title": "Estate Planning",
+            "icon": "fa-file-signature",
+            "description": "Comprehensive estate planning to protect your legacy.",
+            "services": "Will drafting\nLiving trusts\nPower of attorney\nHealthcare directives\nProbate\nEstate disputes",
+            "display_order": 10,
+            "id": 10,
+            "created_at": "2026-07-10 11:12:36"
+        }
+    ],
+    "nextId": 11
+}

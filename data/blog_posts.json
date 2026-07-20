@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "title": "Understanding Your Rights During Police Questioning",
+            "slug": "rights-during-police-questioning",
+            "excerpt": "Know your fundamental rights when interacting with law enforcement.",
+            "content": "<p>Full article content here...<\/p>",
+            "category": "article",
+            "is_published": true,
+            "id": 1,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "title": "Landmark Supreme Court Victory on Corporate Liability",
+            "slug": "supreme-court-corporate-liability",
+            "excerpt": "In a precedent-setting decision, the Supreme Court ruled in our client's favor.",
+            "content": "<p>Full article content here...<\/p>",
+            "category": "case-update",
+            "is_published": true,
+            "id": 2,
+            "created_at": "2026-07-10 11:12:36"
+        },
+        {
+            "title": "New Immigration Rules for 2026",
+            "slug": "immigration-rules-2026",
+            "excerpt": "Significant changes to work visa regulations effective July 2026.",
+            "content": "<p>Full article content here...<\/p>",
+            "category": "news",
+            "is_published": true,
+            "id": 3,
+            "created_at": "2026-07-10 11:12:36"
+        }
+    ],
+    "nextId": 4
+}

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 450" width="450" height="450">
+  <defs>
+    <linearGradient id="herograd1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#0891b2;stop-opacity:0.9"/>
+    </linearGradient>
+    <linearGradient id="herograd2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:0.8"/>
+      <stop offset="100%" style="stop-color:#ea580c;stop-opacity:0.9"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- Background circles -->
+  <circle cx="225" cy="225" r="220" fill="none" stroke="url(#herograd1)" stroke-width="2" opacity="0.3"/>
+  <circle cx="225" cy="225" r="180" fill="none" stroke="url(#herograd2)" stroke-width="1.5" opacity="0.2"/>
+  <circle cx="225" cy="225" r="140" fill="none" stroke="url(#herograd1)" stroke-width="1" opacity="0.4"/>
+  <!-- Large Scales -->
+  <g transform="translate(140,50) scale(2.2)" filter="url(#glow)">
+    <line x1="40" y1="12" x2="40" y2="58" stroke="url(#herograd1)" stroke-width="3" stroke-linecap="round"/>
+    <line x1="12" y1="58" x2="68" y2="58" stroke="url(#herograd2)" stroke-width="3" stroke-linecap="round"/>
+    <!-- Left scale -->
+    <path d="M8,12 Q12,0 24,12" fill="none" stroke="url(#herograd1)" stroke-width="2.5"/>
+    <line x1="8" y1="12" x2="5" y2="12" stroke="url(#herograd1)" stroke-width="2"/>
+    <line x1="24" y1="12" x2="27" y2="12" stroke="url(#herograd1)" stroke-width="2"/>
+    <circle cx="16" cy="12" r="4" fill="url(#herograd2)"/>
+    <!-- Right scale -->
+    <path d="M56,12 Q60,0 72,12" fill="none" stroke="url(#herograd1)" stroke-width="2.5"/>
+    <line x1="56" y1="12" x2="53" y2="12" stroke="url(#herograd1)" stroke-width="2"/>
+    <line x1="72" y1="12" x2="75" y2="12" stroke="url(#herograd1)" stroke-width="2"/>
+    <circle cx="64" cy="12" r="4" fill="url(#herograd2)"/>
+    <!-- Base -->
+    <rect x="30" y="58" width="20" height="5" rx="2" fill="url(#herograd2)"/>
+    <rect x="24" y="63" width="32" height="4" rx="2" fill="url(#herograd1)"/>
+    <rect x="28" y="67" width="24" height="2" rx="1" fill="url(#herograd2)" opacity="0.5"/>
+  </g>
+</svg>
